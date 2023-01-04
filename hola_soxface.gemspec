@@ -1,0 +1,11 @@
+Gem::Specification.new do |s|
+    s.name  = "hola_soxface"
+    s.version = "0.0.0"
+    s.summary = "Hola Clone"
+    s.description = "Clone of Hola Gem Tutorial on Ruby Guides"
+    s.authors = ["Nick Quaranto, Sonya Corcoran"]
+    s.email = "nick@quaran.to"
+    s.files = ["lib/hola.rb"]
+    s.homepage = "https://rubygems.org/gems/hola_soxface"
+    s.licence = "MIT"
+end
