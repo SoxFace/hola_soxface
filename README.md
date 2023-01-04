@@ -7,3 +7,13 @@ Version 0.0.0 available via
 `$ gem install hola_soxface`
 
 or visiting [rubygems.org](https://rubygems.org/gems/hola_soxface)
+
+## Test gem in irb
+
+```
+$ irb -Ilib -rhola_soxface
+3.1.2 :001 > Hola.hi("english")
+=> "Hello world!"
+3.1.2 :003 > Hola.hi("spanish")
+=> "Hola mundo!"
+```
