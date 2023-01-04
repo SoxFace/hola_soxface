@@ -17,3 +17,13 @@ $ irb -Ilib -rhola_soxface
 3.1.2 :003 > Hola.hi("spanish")
 => "Hola mundo!"
 ```
+
+## Test gem using command line utility
+
+```
+$ ruby -Ilib ./bin/hola_soxface
+=> Hello World!
+
+$ ruby -Ilib ./bin/hola_soxface spanish
+=> Hola mundo!
+```
