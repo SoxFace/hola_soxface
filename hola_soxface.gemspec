@@ -1,6 +1,7 @@
 Gem::Specification.new do |s|
     s.name  = "hola_soxface"
-    s.version = "0.0.0"
+    s.version = "0.0.1"
+    s.executables << "hola_soxface"
     s.summary = "Hola Clone"
     s.description = "Clone of Hola Gem Tutorial on Ruby Guides"
     s.authors = ["Nick Quaranto, Sonya Corcoran"]
