@@ -2,13 +2,12 @@
 
 A simple "Hello world!" gem tutorial courtesy of [rubygems.org](https://guides.rubygems.org/make-your-own-gem/#your-first-gem)
 
-Version 0.0.0 available via
+Version 0.0.2 available:
 
-`$ gem install hola_soxface`
+- `$ gem install hola_soxface`
+- [rubygems.org](https://rubygems.org/gems/hola_soxface)
 
-or visiting [rubygems.org](https://rubygems.org/gems/hola_soxface)
-
-## Test gem in irb
+## Test hola_soxface gem in irb
 
 ```
 $ irb -Ilib -rhola_soxface
@@ -18,7 +17,7 @@ $ irb -Ilib -rhola_soxface
 => "Hola mundo!"
 ```
 
-## Test gem using command line utility
+## Test hola_soxface gem using command line utility
 
 ```
 $ ruby -Ilib ./bin/hola_soxface
