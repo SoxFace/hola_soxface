@@ -26,3 +26,18 @@ $ ruby -Ilib ./bin/hola_soxface
 $ ruby -Ilib ./bin/hola_soxface spanish
 => Hola mundo!
 ```
+
+## Test hola_soxface gem using rake
+
+```
+$ rake test
+Run options: --seed 63233
+
+# Running:
+
+...
+
+Finished in 0.000896s, 3348.2143 runs/s, 3348.2143 assertions/s.
+
+3 runs, 3 assertions, 0 failures, 0 errors, 0 skips
+```
