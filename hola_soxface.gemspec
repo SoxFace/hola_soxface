@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
     s.description = "Clone of Hola Gem Tutorial on Ruby Guides"
     s.authors = ["Nick Quaranto, Sonya Corcoran"]
     s.email = "nick@quaran.to"
-    s.files = ["lib/hola.rb"]
+    s.files = ["lib/hola_soxface.rb"]
     s.homepage = "https://rubygems.org/gems/hola_soxface"
-    s.licence = "MIT"
+    s.license = "MIT"
 end
